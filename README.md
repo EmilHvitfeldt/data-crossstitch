@@ -12,5 +12,5 @@ Pattern created with [FlossCross](https://flosscross.com/):
 
 Result:
 
-![](results/recipes.png)
+![](results/recipes.webp)
 
