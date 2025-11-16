@@ -1,5 +1,8 @@
-# Data Adjacent CrossStitch Patterns
+# Data Adjacent Cross Stitch Patterns
 
+This is my humble collection of cross stitch paterns and results.
+Specifically data related themes.
+I'm happy to accept PRs with your patterns if you see them fit.
 
 ## Recipes Hex
 
